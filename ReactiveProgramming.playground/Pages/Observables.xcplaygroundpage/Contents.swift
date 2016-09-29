@@ -47,4 +47,8 @@ greeting.subscribe { text in
  - Note: You should now see this message in the console two times.
 */
 greeting.update("Isn't this cool?")
-//:[Now it's time to move on to some functional concepts.](@Next)
+/*:
+ With Observables you can replace patterns like delegation, KVO, target-action or notifications.
+ 
+ [Now it's time to move on to some functional concepts.](@Next)
+ */

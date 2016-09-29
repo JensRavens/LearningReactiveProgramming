@@ -4,5 +4,6 @@
         <page name='Topics'/>
         <page name='Observables'/>
         <page name='Monads'/>
+        <page name='Result'/>
     </pages>
 </playground>
