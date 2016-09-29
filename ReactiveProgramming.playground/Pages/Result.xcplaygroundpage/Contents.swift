@@ -54,4 +54,6 @@ extension Result {
 }
 /*:
  At this time the magic of flatMap strikes again: If you have a chain of multiple throwing functions and one of them fail, the rest of the chain is skipped until the end and an `.error` is returned. Now you can concentrate on the happy path and leave the error handling till the end! 🎉
+ 
+ [Of course Observables can contain Results!](@next)
  */
