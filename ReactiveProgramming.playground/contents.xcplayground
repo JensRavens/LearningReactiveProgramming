@@ -6,5 +6,6 @@
         <page name='Monads'/>
         <page name='Result'/>
         <page name='Protocol Extensions'/>
+        <page name='Warpdrive'/>
     </pages>
 </playground>
