@@ -66,3 +66,6 @@ Observable(Result.success("Hello World"))
  This is the basis of a library called Interstellar. In the next examples we'll have a look at some additional features in that library.
  [We start with Warpdrive](@next)
  */
+import XCPlayground
+import PlaygroundSupport
+PlaygroundPage.current.needsIndefiniteExecution = true
